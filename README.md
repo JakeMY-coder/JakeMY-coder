@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m @JakeMY-coder
 
-My name is Jake Young. I'm a data engineer specializing in python with a focus on ETL for AI/ML scientists.
+My name is Jake Young. I'm a senior data scientist at GRVTY.
 
-Reach me at yojake.jy@gmail.com.
+Reach me at jacob.young@grvty.com
 
 <!---
 JakeMY-coder/JakeMY-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
